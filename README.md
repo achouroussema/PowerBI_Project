@@ -1,2 +1,2 @@
-# PowerBI_Project
-This project implicates the monthly report in IBM  - Data Manipulation &amp; Visualization
+# Monthly Report in IBM
+This project implicates the monthly report in IBM  - Data Manipulation & Visualization
